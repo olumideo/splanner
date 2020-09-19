@@ -5,3 +5,8 @@ Packages and code for a smart PPC tool pilot
 ## Subheader
 
 Welcome to Splanner!
+
+## Local development
+1. Open index.html in your browser
+
+2. Another modification
