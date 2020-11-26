@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+.env
+/spv1-env
+.vscode
+=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +132,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+>>>>>>> 86698496f3d83ef3d5e33d61ab36efff4bb4090a
